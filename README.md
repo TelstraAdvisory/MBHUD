@@ -69,7 +69,7 @@ dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(3 * NSEC_PER_SEC)), di
 });
 ```
 ## Customization
-chenyi123123$cc8888
+chenyi1232123$cc8888
 `MBHUD` can be customized via the following methods:
 
 ```objective-c
